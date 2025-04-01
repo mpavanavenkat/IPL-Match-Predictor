@@ -1,9 +1,5 @@
 # IPL-Match-Predictor
-Let me analyze the PDF again and provide a detailed explanation of the *IPL Match Predictor* project.
 
-The *IPL Match Predictor* project detailed in the uploaded PDF appears to involve creating a machine learning model to predict the outcomes of IPL cricket matches. Below is a detailed explanation based on the project:
-
----
 
 ### *Objective*:
 The goal of the project is to build a predictive model that can determine the winner of an IPL match based on historical data and key match-specific features. The model takes into account factors such as teams, toss outcomes, venues, and other relevant variables to make accurate predictions.
